@@ -1,0 +1,141 @@
+body{
+    margin: 0;
+   
+}
+
+h2{
+    padding-left: 10;
+}
+
+p{
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    line-height: 30px;
+    
+}
+
+
+
+.nav-item:hover{
+
+    border-bottom:   solid red;
+  
+}
+
+
+.nav-item {
+    padding: 0 30px;
+}
+
+/*........NAVIGATION CONTENT...*/
+
+.nav-content{
+    background-color: #FFEA20;
+    padding-bottom: 60px;
+
+}
+
+
+.first-info {
+    margin-left: 60px;
+    margin-top: 150px;
+}
+
+
+.web-image {
+ width: 60%;
+ margin-top:130px ;
+ margin-left: 40px;
+}
+
+.quote-button{
+    margin-top: 30px;
+}
+
+/*........services...*/
+#services {
+text-align: left;
+background-color:#f7f7f9;
+padding-top: 60px ;
+padding-right:10px; 
+padding-bottom: px ;
+padding-left: 10px;
+
+}
+
+.heading {
+    text-align: center;
+    
+}
+
+.box {
+    
+    height: 90%;
+    padding:20px 30px 80px 30px ;
+    border-radius: 3%;
+}
+
+.mobile-image {
+    width: 40%;
+    
+}
+
+
+.boxes-one{
+    padding:80px;
+}
+
+.boxes-two{
+    padding: 1px 80px; 
+    
+    
+}
+
+
+
+
+#about {
+   background-color:  #000000;
+   color: white;
+}
+
+/*........footer...*/
+
+.foot {
+text-align: center;
+   height: 800px;
+  background-color:#000000;
+  color: #FFEA20;
+  padding-top: 130px;
+  padding-bottom:80px;
+  
+}
+
+.footer-text1{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    color: #FFEA20;
+
+}
+.footer-text2{
+    padding-top: 40px;
+    color: wheat;
+
+}
+
+.socials{
+    margin-right: 40px;
+}
+.social-icons{
+    padding-top: 150px;
+}
+
+.social-icons {
+    padding-right: 80px;
+    
+}
+
+
+
+
+
