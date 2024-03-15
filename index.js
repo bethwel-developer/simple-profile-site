@@ -13,8 +13,6 @@ $(".contact-button").click(function(){
 
 
 
-
-
 $(".navbar-brand").click(function(){
   $(".nav-content").fadeIn(1500);
   $(".foot").fadeIn();
