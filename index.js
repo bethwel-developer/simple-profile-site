@@ -4,7 +4,6 @@ $(".services-button").click(function(){
   $("#services ").fadeIn(1500);
 });
 
-
 $(".contact-button").click(function(){
   $("#services").fadeOut();
   $(".nav-content").fadeOut();
