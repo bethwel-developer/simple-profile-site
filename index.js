@@ -10,7 +10,6 @@ $(".contact-button").click(function(){
   $(".foot").fadeIn(1500);
 });
 
-
 $(".navbar-brand").click(function(){
   $(".nav-content").fadeIn(1500);
   $(".foot").fadeIn();
