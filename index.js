@@ -24,7 +24,6 @@ $(".navbar-brand").click(function(){
     $(".dropdown-for-industries").hide(); 
   });
 
-
   $(".dropdown-company").mouseenter(function(){
     $(".dropdown-for-company").fadeIn(800); 
   });
