@@ -18,7 +18,6 @@ $(".navbar-brand").click(function(){
 });
 
 
-
   $(".dropdown-industries").mouseenter(function(){
     $(".dropdown-for-industries").fadeIn(800); 
   });
