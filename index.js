@@ -16,7 +16,6 @@ $(".navbar-brand").click(function(){
   $("#services").fadeIn();
 });
 
-
   $(".dropdown-industries").mouseenter(function(){
     $(".dropdown-for-industries").fadeIn(800); 
   });
