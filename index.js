@@ -1,4 +1,5 @@
- $(".services-button").click(function(){
+
+$(".services-button").click(function(){
   $(".nav-content").fadeOut();
   $(".foot").fadeOut();
   $("#services ").fadeIn(1500);
